@@ -1,5 +1,24 @@
 [
   {
+    "id": "electric-vehicles-clean-energy-hub-reddit-20260914-p1",
+    "title": "r/electricvehicles Clean Mobility Guild",
+    "platform": "Reddit",
+    "category": "Clean Energy & EVs",
+    "memberCount": "380,000+ members",
+    "description": "The largest community covering EV battery chemistries, NACS charging networks, vehicle reviews, solar microgrids, and electric transit.",
+    "joinUrl": "https://www.reddit.com/r/electricvehicles/",
+    "tags": [
+      "electric-vehicles",
+      "clean-tech",
+      "mobility",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-14"
+  },
+  {
     "id": "electric-vehicles-clean-energy-hub-reddit-20260914-1",
     "title": "r/ChatGPT AI Community",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
